@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS210: Corporate Communication"
 -----------------------------------------------------
 

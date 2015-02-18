@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Developing Business Presentations** <span id="6"></span> 
 *In this unit, you will become more knowledgeable about the process of
 creating a speech and gain confidence in your organizational abilities. 

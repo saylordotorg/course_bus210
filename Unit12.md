@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Negative News and Crisis Communication** <span
 id="12"></span> 
 *In this unit, you will discover how in times of confusion or crisis,

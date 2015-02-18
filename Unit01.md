@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Business Communication** <span id="1"></span> 
 *In this unit, you will gain a better understanding of how communication
 forms a part of your self-concept, helping you understand yourself and

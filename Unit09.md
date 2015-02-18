@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Presentations to Persuade** <span id="9"></span> 
 *In this unit, you will understand the nature and challenges of
 persuasion by becoming more familiar with the principles, functions, and

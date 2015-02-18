@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Nonverbal Delivery** <span id="10"></span> 
 *In this unit, you will recognize how nonverbal communication is an
 influential, contextual process that conveys messages without using

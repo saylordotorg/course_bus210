@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: Intrapersonal and Interpersonal Business Communication**
 <span id="13"></span> 
 *In this unit, you will learn about the self-concept and dimensions of

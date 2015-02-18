@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Business Presentations in Action** <span id="11"></span> 
 *In this unit, you will survey oral presentation occasions commonly
 encountered in the business world, including the objectives, content,

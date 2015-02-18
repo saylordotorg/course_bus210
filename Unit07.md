@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Organization and Outlines** <span id="7"></span> 
 *In this unit, you will return to the rhetorical situations and cognate
 strategies that control the development of an oral presentation.  In

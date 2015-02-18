@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../../../
+previous: ../Unit15
+---
 **Unit 16: Final Exam** <span id="16"></span> 
 -   **Final Exam: The Saylor Foundation's "BUS210 Final Exam"**
     Link: The Saylor Foundation's ["BUS210 Final

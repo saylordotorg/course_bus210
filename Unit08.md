@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Presentations to Inform** <span id="8"></span> 
 *In this unit, you will encounter the goals and types of informative
 speeches and learn how to motivate your audience by making your material

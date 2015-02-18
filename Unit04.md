@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Effective Business Writing** <span id="4"></span> 
 *In this unit, you will explore the written word in a business context,
 including the important but contrastingly asynchronous elements which

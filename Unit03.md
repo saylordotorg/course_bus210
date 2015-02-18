@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS210: Corporate Communication"
+course_description: "A survey of effective communication skills as they relate to succeeding in business, with particular emphasis on communication tools and activities that connect people within and beyond the organization."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Understanding Your Audience** <span id="3"></span> 
 *In this unit, you will discover how your self-awareness and how others
 view you influence your effectiveness as a communicator.  Moreover,
